@@ -1,0 +1,83 @@
+body {
+    margin: 0px;
+}
+
+.border-change {
+    font-size: 30px;
+    border-left: 5px solid;
+    border-image: linear-gradient(blue, skyblue);
+    border-image-slice: 1;
+}
+
+span {
+    color: purple;
+}
+
+.container {
+    font-family: 'Lora', serif;
+    display: flex;
+    margin-bottom: 120px;
+    margin-top: 20px;
+}
+
+.topper {
+    width: 50%;
+    padding-left: 7%;
+}
+
+.topper img {
+    width: 80%;
+    margin-top: 10px;
+}
+
+.linked {
+    text-decoration: none;
+    background-image: linear-gradient(orange, red);
+    color: #fff;
+    font-weight: 700;
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+
+#scroll {
+    font-weight: 600;
+    line-height: 170px;
+}
+
+.mission {
+    font-family: 'Secular One', sans-serif;
+
+}
+
+h2 {
+    text-align: center;
+}
+
+#color-1 {
+    background-color: rgba(152, 58, 167, 0.452);
+}
+
+#color-2 {
+    background-color: slategrey;
+}
+
+#color-3 {
+    background-color: rgba(106, 107, 32, 0.548);
+}
+
+/* h3 {
+    text-align: center;
+} */
+
+.mission-hero {
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 10px;
+    border-radius: 30px;
+    box-shadow: 10px 10px 40px rgba(175, 87, 87, 0.548);
+}
+
+.mission-hero img {
+    width: 200px;
+}
