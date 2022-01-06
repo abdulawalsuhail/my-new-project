@@ -35,6 +35,7 @@ span {
     background-image: linear-gradient(orange, red);
     color: #fff;
     font-weight: 700;
+    line-height: 80px;
     padding: 10px 40px;
     border-radius: 5px;
 }
@@ -80,4 +81,32 @@ h2 {
 
 .mission-hero img {
     width: 200px;
+}
+
+.font-cng {
+    font-family: 'Be Vietnam Pro', sans-serif;
+}
+
+.latter-size-cng {
+    margin-top: 40px;
+    padding-right: 15%;
+}
+
+.flexable-site {
+    margin: 40px;
+    padding: 45px;
+}
+
+.last-footer {
+    background-color: black;
+    color: #fff;
+    text-align: center;
+}
+
+.beauty-letter {
+    font-family: 'Lobster', cursive;
+}
+
+.half-padd {
+    padding: 20px;
 }
