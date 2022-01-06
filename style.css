@@ -97,6 +97,60 @@ h2 {
     padding: 45px;
 }
 
+.child_footer {
+    padding: 40px;
+    margin-right: 50px;
+    width: 21%;
+}
+
+.child_footer h3 {
+    border-top: 1px solid #666666;
+    color: #666;
+    font-size: 25px;
+    text-transform: uppercase;
+    margin-top: 0;
+    padding-top: 5px;
+}
+
+.child_footer input {
+    background: #f2f2f2;
+    width: 200px;
+    border: 0px solid;
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 10px;
+
+}
+
+.child_footer textarea {
+    background: #f2f2f2;
+    width: 200px;
+    height: 200px;
+    border: 0px solid;
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.child_footer input[type="submit"] {
+    width: 80px;
+    background-image: linear-gradient(orange, red);
+    color: #fff;
+    cursor: pointer;
+
+}
+
+#border-change {
+    border-left: 7px solid;
+    border-image: linear-gradient(rgb(40, 40, 97), rgb(38, 90, 110));
+    border-image-slice: 1;
+}
+
+.last-one {
+    margin: 15px;
+    padding-right: 10px;
+}
+
 .last-footer {
     background-color: black;
     color: #fff;
